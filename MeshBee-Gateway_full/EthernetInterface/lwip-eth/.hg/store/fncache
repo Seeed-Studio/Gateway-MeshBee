@@ -1,0 +1,6 @@
+data/arch/lpc17_emac.c.i
+data/arch/lpc_emac_config.h.i
+data/arch/lpc17xx_emac.h.i
+data/arch/lpc_phy_dp83848.c.i
+data/arch/lpc_phy.h.i
+data/arch/lpc17_emac.h.i
