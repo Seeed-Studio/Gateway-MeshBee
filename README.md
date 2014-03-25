@@ -8,31 +8,31 @@ A common scenario in a wireless network is the need for most network nodes to co
 a single node which performs some centralised function.
 In this demo project,we implement a Client-Server model. AT commands "ATQD" send from client to server
 (In this case,coordinator binded on gateway is treated as client,and end device is treated as server)
-and then,sensor attributes returned from server to client.
+and then,sensor attributes returned from server to client.<br>
 
 Gateway+Coordinator <-----------------> Router or End Device
 
 A on-chip temperature measurement was performed on server, data was transmit to xively,a world famous sensor 
 cloud platform.
 
-Hardware:
-        1.Seeeduino Arch Pro(mBed);
-        2.Mesh Bee;
-        3.Xbee Shield
+Hardware:<br>
+        1.Seeeduino Arch Pro(mBed);<br>
+        2.Mesh Bee;<br>
+        3.Xbee Shield<br>
         
-Software:
-        1.RTOS;
-        2.Zigbee Pro;
-        3.Xively lib
+Software:<br>
+        1.RTOS;<br>
+        2.Zigbee Pro;<br>
+        3.Xively lib<br>
 
 In order to improve Mesh-Bee firmware Project,please feel free to contact me with your suggestions.
 
-For more information, please refer to [wiki page](<wiki url>).
+For more information, please refer to [wiki page](<http://www.seeedstudio.com/wiki/Mesh_Bee>).
 
     
 ----
 
-This software is written by <long.wang@your_email.com> for seeed studio<br>
+This software is written by <long.wang@seeedstudio.com> for seeed studio<br>
 and is licensed under [The MIT License](http://opensource.org/licenses/mit-license.php). Check License.txt for more information.<br>
 
 Contributing to this software is warmly welcomed. You can do this basically by<br>
