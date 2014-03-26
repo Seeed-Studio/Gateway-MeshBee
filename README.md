@@ -12,7 +12,7 @@ and then,sensor attributes returned from server to client.<br>
 
 Gateway+Coordinator <-----------------> Router or End Device
 
-A on-chip temperature measurement was performed on server, data was transmit to xively,a world famous sensor 
+A on-chip temperature measurement was performed on server, data was transmitted to xively,a world famous sensor 
 cloud platform.
 
 Hardware:<br>
@@ -25,7 +25,7 @@ Software:<br>
         2.Zigbee Pro;<br>
         3.Xively lib<br>
 
-In order to improve Mesh-Bee firmware Project,please feel free to contact me with your suggestions.
+In order to improving Mesh-Bee firmware,please feel free to contact me with your suggestions.
 
 For more information, please refer to [wiki page](<http://www.seeedstudio.com/wiki/Mesh_Bee>).
 
